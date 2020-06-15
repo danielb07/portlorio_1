@@ -1,0 +1,28 @@
+h1{
+    color :blue
+
+}
+p{
+    color : aqua
+}
+*{
+    border : solid
+}
+.header{
+
+    background-color: #ff0000;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
