@@ -10,7 +10,7 @@ p{
 }
 .header{
 
-    background-color: #ff0000;
+    background-color: #800000;
     display:flex;
     justify-content: space-between;
 
@@ -25,4 +25,8 @@ p{
 .footer{
     display: flex;
     justify-content: flex-end;
+}
+
+body{
+    background-color:#affcac
 }
